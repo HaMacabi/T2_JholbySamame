@@ -12,11 +12,11 @@
         <form action="ControladorUsuario" method="post">
             <input type="hidden" name="action" value="login">
             <div class="mb-3">
-                <label for="usuario" class="form-label">Usuario</label>
+                <label for="usuario" class="form-label">Usuario:</label>
                 <input type="text" class="form-control" id="usuario" name="usuario" required>
             </div>
             <div class="mb-3">
-                <label for="password" class="form-label">Contraseña</label>
+                <label for="password" class="form-label">Contraseña:</label>
                 <input type="password" class="form-control" id="password" name="password" required>
             </div>
             <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
