@@ -19,7 +19,7 @@
     <div class="container mt-5">
         <h1 class="text-center">Listado de Proveedores</h1>
         <div class="text-end mb-3">
-            <a href="agregarProveedor.jsp" class="btn btn-success">Agregar Proveedor</a>
+            <a href="agregarProveedor.jsp" class="btn btn-success">Registrar Proveedor</a>
         </div>
         <table class="table table-bordered">
             <thead>
